@@ -19,6 +19,11 @@ footer {
 }
 
 
+p{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
 footer img {
     width: 150px; 
     height: auto; 
