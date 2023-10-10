@@ -12,22 +12,22 @@ header{
     color:green;
     }
 
-    /* Estilos para el pie de página (footer) */
+ 
 footer {
-    background-color: #0a5a4f; /* Color de fondo */
-    margin-top: 10px; /* Margen superior */
+    background-color: #0a5a4f; 
+    margin-top: 10px; 
 }
 
-/* Estilos para la imagen dentro del pie de página */
+
 footer img {
-    width: 150px; /* Ancho de la imagen */
-    height: auto; /* Altura automática para mantener la proporción */
+    width: 150px; 
+    height: auto; 
 }
 
-/* Estilos para los enlaces dentro del pie de página */
+
 footer a {
-    font-family: 'Tahoma'; /* Fuente de texto */
-    font-size: 16px; /* Tamaño de fuente */
-    color: green; /* Color de texto */
+    font-family: 'Tahoma'; 
+    font-size: 16px; 
+    color: green; 
 }
 
